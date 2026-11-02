@@ -1,2 +1,5 @@
 # them
-them busnies 
+
+مستودع تجريبي قديم (Business Theme). لا يحتوي حاليًا على شيفرة.
+
+للثيم الفعلي انظر المستودع `ru-ahme` الذي يحوي أرشيف `business_theme_v14`.
